@@ -1,4 +1,4 @@
-# Extending sampling approaches for great crested newt (Triturus cristatus) eDNA monitoring
+# Extending sampling approaches for great crested newt eDNA monitoring
 
 Data processing workflow and supplementary data for:
 
