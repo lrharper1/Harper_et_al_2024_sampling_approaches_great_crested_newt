@@ -25,7 +25,7 @@ The resulting data were analysed to examine:
 
 ## Contents
 
-R scripts used to analyse metabarcoding data and produce figures [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/R%20scripts)
+R scripts used to analyse metabarcoding data and produce figures [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/R_scripts)
 
 Data needed to run analyses in R [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/Data/)
 
