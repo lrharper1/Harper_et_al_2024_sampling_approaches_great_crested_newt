@@ -1,0 +1,121 @@
+Pond_ID,Pond_number,Season,GCN_found,Peak_count,Population_class,Kit_type,Corresponding_eDNA_score,Average_eDNA_score,Peak_eDNA_score,Notes
+HS2-00002NHYT,5,In-season,No,0,None,Both,6,4.33,12,Only eggs found.
+HS2-00002NHYT,5,In-season,No,0,None,EP,0,0.67,1,Only eggs found.
+HS2-00002NHYT,5,In-season,No,0,None,F,12,8.00,12,Only eggs found.
+HS2-00002NHZ0,6,In-season,No,0,None,Both,6,6.00,12,Only eggs found.
+HS2-00002NHZ0,6,In-season,No,0,None,EP,0,0.33,1,Only eggs found.
+HS2-00002NHZ0,6,In-season,No,0,None,F,12,11.67,12,Only eggs found.
+HS2-00002NHYZ,7,In-season,Yes,1,Small,Both,8.5,6.83,12,
+HS2-00002NHYZ,7,In-season,Yes,1,Small,EP,5,1.67,5,
+HS2-00002NHYZ,7,In-season,Yes,1,Small,F,12,12.00,12,
+HS2-00002NHYV,8,In-season,No,0,None,Both,5,1.83,7,Only eggs found.
+HS2-00002NHYV,8,In-season,No,0,None,EP,3,1.00,3,Only eggs found.
+HS2-00002NHYV,8,In-season,No,0,None,F,7,2.67,7,Only eggs found.
+HS2-00002NL5H,9,In-season,Yes,1,Small,Both,5.5,5.67,12,
+HS2-00002NL5H,9,In-season,Yes,1,Small,EP,10,4.67,10,
+HS2-00002NL5H,9,In-season,Yes,1,Small,F,1,6.67,12,
+HS2-00002NL5J,10,In-season,Yes,25,Medium,Both,7.5,7.83,12,
+HS2-00002NL5J,10,In-season,Yes,25,Medium,EP,3,4.33,9,
+HS2-00002NL5J,10,In-season,Yes,25,Medium,F,12,11.33,12,
+HS2-00002NL5K,11,In-season,Yes,3,Small,Both,12,8.50,12,
+HS2-00002NL5K,11,In-season,Yes,3,Small,EP,12,8.67,12,
+HS2-00002NL5K,11,In-season,Yes,3,Small,F,12,8.33,12,
+HS2-00002NL5L,12,In-season,Yes,13,Medium,Both,6,9.00,12,
+HS2-00002NL5L,12,In-season,Yes,13,Medium,EP,10,9.33,12,
+HS2-00002NL5L,12,In-season,Yes,13,Medium,F,2,8.67,12,
+HS2-00002NL5M,13,In-season,Yes,1,Small,Both,9.5,10.17,12,
+HS2-00002NL5M,13,In-season,Yes,1,Small,EP,12,10.00,12,
+HS2-00002NL5M,13,In-season,Yes,1,Small,F,7,10.33,12,
+HS2-00002NL5N,14,In-season,Yes,1,Small,Both,12,8.00,12,
+HS2-00002NL5N,14,In-season,Yes,1,Small,EP,12,8.67,12,
+HS2-00002NL5N,14,In-season,Yes,1,Small,F,12,7.33,12,
+HS2-00002NL5P,15,In-season,Yes,2,Small,Both,8.5,5.67,12,
+HS2-00002NL5P,15,In-season,Yes,2,Small,EP,5,1.67,5,
+HS2-00002NL5P,15,In-season,Yes,2,Small,F,12,9.67,12,
+HS2-00002NL5Q,16,In-season,Yes,1,Small,Both,12,9.83,12,
+HS2-00002NL5Q,16,In-season,Yes,1,Small,EP,12,12.00,12,
+HS2-00002NL5Q,16,In-season,Yes,1,Small,F,12,7.67,12,
+HS2-00002NL5R,17,In-season,No,0,None,Both,NA,NA,12,Only smooth newts found.
+HS2-00002NL5R,17,In-season,No,0,None,EP,NA,NA,0,Only smooth newts found.
+HS2-00002NL5R,17,In-season,No,0,None,F,NA,NA,12,Only smooth newts found.
+0620014,18,In-season,NA,NA,NA,Both,0.5,NA,1,Data not available.
+0620014,18,In-season,NA,NA,NA,EP,0,NA,0,Data not available.
+0620014,18,In-season,NA,NA,NA,F,1,NA,1,Data not available.
+HS2-00002NL5S,19,In-season,NA,NA,NA,Both,NA,NA,9,Data not available.
+HS2-00002NL5S,19,In-season,NA,NA,NA,EP,NA,NA,2,Data not available.
+HS2-00002NL5S,19,In-season,NA,NA,NA,F,NA,NA,9,Data not available.
+HS2-00002NL5T,20,In-season,Yes,1,Small,Both,4,5.50,12,
+HS2-00002NL5T,20,In-season,Yes,1,Small,EP,1,0.67,1,
+HS2-00002NL5T,20,In-season,Yes,1,Small,F,7,10.33,12,
+HS2-00002NL5U,21,In-season,Yes,2,Small,Both,6,8.50,12,
+HS2-00002NL5U,21,In-season,Yes,2,Small,EP,0,5.00,12,
+HS2-00002NL5U,21,In-season,Yes,2,Small,F,12,12.00,12,
+HS2-00002NL5W,22,In-season,No,0,None,Both,10,9.33,12,Only 1 female smooth newt found.
+HS2-00002NL5W,22,In-season,No,0,None,EP,8,6.67,11,Only 1 female smooth newt found.
+HS2-00002NL5W,22,In-season,No,0,None,F,12,12.00,12,Only 1 female smooth newt found.
+HS2-00002NL5V,23,In-season,NA,NA,NA,Both,11,7.75,12,Data not available.
+HS2-00002NL5V,23,In-season,NA,NA,NA,EP,10,5.00,10,Data not available.
+HS2-00002NL5V,23,In-season,NA,NA,NA,F,12,10.50,12,Data not available.
+063011,25,In-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no in-season eDNA survey undertaken.
+063011,25,In-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no in-season eDNA survey undertaken.
+063011,25,In-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no in-season eDNA survey undertaken.
+HS2-00002NHYT,5,Out-of-season,No,0,None,Both,0,2.75,12,
+HS2-00002NHYT,5,Out-of-season,No,0,None,EP,0,0.00,0,
+HS2-00002NHYT,5,Out-of-season,No,0,None,F,0,5.50,12,
+HS2-00002NHZ0,6,Out-of-season,No,0,None,Both,0,2.00,12,
+HS2-00002NHZ0,6,Out-of-season,No,0,None,EP,0,0.00,0,
+HS2-00002NHZ0,6,Out-of-season,No,0,None,F,0,4.00,12,
+HS2-00002NHYZ,7,Out-of-season,No,0,None,Both,0,2.88,12,
+HS2-00002NHYZ,7,Out-of-season,No,0,None,EP,0,0.25,1,
+HS2-00002NHYZ,7,Out-of-season,No,0,None,F,0,5.50,12,
+HS2-00002NHYV,8,Out-of-season,NA,NA,NA,Both,NA,5.33,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NHYV,8,Out-of-season,NA,NA,NA,EP,NA,2.33,7,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NHYV,8,Out-of-season,NA,NA,NA,F,NA,8.33,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5H,9,Out-of-season,NA,NA,NA,Both,NA,NA,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5H,9,Out-of-season,NA,NA,NA,EP,NA,NA,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5H,9,Out-of-season,NA,NA,NA,F,NA,NA,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5J,10,Out-of-season,No,0,None,Both,0,1.00,4,
+HS2-00002NL5J,10,Out-of-season,No,0,None,EP,0,1.50,4,
+HS2-00002NL5J,10,Out-of-season,No,0,None,F,0,0.50,1,
+HS2-00002NL5K,11,Out-of-season,No,0,None,Both,0,5.63,12,
+HS2-00002NL5K,11,Out-of-season,No,0,None,EP,0,7.25,12,
+HS2-00002NL5K,11,Out-of-season,No,0,None,F,0,4.00,11,
+HS2-00002NL5L,12,Out-of-season,No,0,None,Both,0,7.63,12,
+HS2-00002NL5L,12,Out-of-season,No,0,None,EP,0,6.25,12,
+HS2-00002NL5L,12,Out-of-season,No,0,None,F,0,9.00,12,
+HS2-00002NL5M,13,Out-of-season,No,0,None,Both,0,5.13,12,
+HS2-00002NL5M,13,Out-of-season,No,0,None,EP,0,6.25,12,
+HS2-00002NL5M,13,Out-of-season,No,0,None,F,0,4.00,11,
+HS2-00002NL5N,14,Out-of-season,No,0,None,Both,0,4.63,11,
+HS2-00002NL5N,14,Out-of-season,No,0,None,EP,0,5.75,11,
+HS2-00002NL5N,14,Out-of-season,No,0,None,F,0,3.50,11,
+HS2-00002NL5P,15,Out-of-season,No,0,None,Both,0,5.63,12,
+HS2-00002NL5P,15,Out-of-season,No,0,None,EP,0,4.25,10,
+HS2-00002NL5P,15,Out-of-season,No,0,None,F,0,7.00,12,
+HS2-00002NL5Q,16,Out-of-season,No,0,None,Both,0,2.38,12,
+HS2-00002NL5Q,16,Out-of-season,No,0,None,EP,0,4.75,12,
+HS2-00002NL5Q,16,Out-of-season,No,0,None,F,0,0.00,0,
+HS2-00002NL5R,17,Out-of-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5R,17,Out-of-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5R,17,Out-of-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+0620014,18,Out-of-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+0620014,18,Out-of-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+0620014,18,Out-of-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5S,19,Out-of-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5S,19,Out-of-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5S,19,Out-of-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5T,20,Out-of-season,No,0,None,Both,1,3.00,12,
+HS2-00002NL5T,20,Out-of-season,No,0,None,EP,1,1.25,3,
+HS2-00002NL5T,20,Out-of-season,No,0,None,F,1,4.75,12,
+HS2-00002NL5U,21,Out-of-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5U,21,Out-of-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5U,21,Out-of-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5W,22,Out-of-season,NA,NA,NA,Both,NA,3.33,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5W,22,Out-of-season,NA,NA,NA,EP,NA,5.33,12,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5W,22,Out-of-season,NA,NA,NA,F,NA,1.33,2,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5V,23,Out-of-season,NA,NA,NA,Both,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5V,23,Out-of-season,NA,NA,NA,EP,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+HS2-00002NL5V,23,Out-of-season,NA,NA,NA,F,NA,NA,NA,Population size not assessed as no eDNA survey undertaken in October.
+063011,25,Out-of-season,No,0,None,Both,1,7.38,12,
+063011,25,Out-of-season,No,0,None,EP,0,6.75,12,
+063011,25,Out-of-season,No,0,None,F,2,8.00,12,
