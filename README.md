@@ -4,6 +4,8 @@ Data processing workflow and supplementary data for:
 
 Harper *et al.* (2024) Extending sampling approaches for great crested newt (*Triturus cristatus*) eDNA monitoring. *bioRxiv*
 
+Permanently archived at: [![DOI](https://zenodo.org/badge/875268063.svg)](https://doi.org/10.5281/zenodo.13960688)
+
 
 ## Background
 
