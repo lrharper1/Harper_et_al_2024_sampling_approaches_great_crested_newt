@@ -2,7 +2,7 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* (2024) Extending sampling approaches for great crested newt (*Triturus cristatus*) eDNA monitoring. *bioRxiv*
+Harper *et al.* (2025) Extending sampling approaches for great crested newt (*Triturus cristatus*) eDNA monitoring. *bioRxiv*
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/875268063.svg)](https://doi.org/10.5281/zenodo.13960688)
 
@@ -22,7 +22,8 @@ The resulting data were analysed to examine:
 3. The number of positive ponds in-season (April to June) vs. out-of-season (July to October) produced by ethanol precipitation and filtration.
 4. The eDNA score for each pond in-season (April to June) vs. out-of-season (July to October) produced by ethanol precipitation and filtration
 5. Whether volume of water filtered influenced the eDNA scores for ponds (and thus detection).
-6. Whether there was a relationship between population size estimates and eDNA scores.
+6. Whether there was a relationship between population size estimates and eDNA scores (and thus detection).
+7. The probability of eDNA detection when imperfect detection is accounted for via hierachical occupancy modelling.
 
 
 ## Contents
@@ -30,6 +31,8 @@ The resulting data were analysed to examine:
 R scripts used to analyse data and produce figures [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/R_scripts)
 
 Data needed to run analyses in R [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/Data/)
+
+Output files from eDNAShinyApp package [(here)](https://github.com/lrharper1/Harper_et_al_2024_sampling_approaches_great_crested_newt/tree/master/eDNAshinyapp/)
 
 
 ## Setting up the environment
